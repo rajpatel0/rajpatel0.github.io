@@ -1,2 +1,2 @@
 # rajpatel0.github.io
-Personal Website
+Just a place for me to build out a personal website.
